@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Veille Technologique 
+BTS Sio !"
+date:   2018-11-07 13:40:37 +0300
+categories: jekyll update
+---
+# Bienvenue.
+
+
+ <img src="/home/dm1/Documents/dotX-master/source" align="right">
+
+
+Ci dessous nos titres
+
+# Titre important
+## titre un peu moins important
+### Titre moins important
+#### Et ainsi de suite
+
+ <span style="color: red">Texte en Rouge</span>
+
+Il est possible d'aller jusqu'à 6 niveaux.
+
+*Ceci est notre texte en italique*
+**Ceci est notre texte en gras**
+
+Il est possible de créer des tableaux (AltGr 6 pour le trai vertical) :
+
+|1ere case|2ème case|
+|.........|.........|
+|3ème case|4ème case|
+
+Il est également possible de créer des listes :
+ - 1er élément
+ - 2ème élément
+
+1. 1er élément 
+
+Il est également possible d'ajouter une image :
+
+(/home/dm1/Documents/dotX-master/source:)
+
+Pour les liens url plusieurs façons :
+
+[mon lien vers Google](https://www.google.fr)
+ou
+**source : <https://www.google.fr>**
+
+On peut citer :
+> Panier Piano x6
